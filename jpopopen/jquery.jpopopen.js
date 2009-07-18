@@ -3,7 +3,10 @@
  * 
  * Load a panel by AJAX, and open it near the link that loaded it.
  * 
- * TODO License
+ * Copyright (c) 2009 Leftclick.com.au, Ben New
+ * 
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
  */
 
 ;(function($) {
